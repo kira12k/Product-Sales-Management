@@ -33,7 +33,7 @@ A lightweight, efficient, and easy-to-use **Sales Management System** built with
 | Backend      | Flask, SQLite3                           |
 | Frontend     | HTML, CSS, JavaScript                    |
 | Styling      | Custom CSS (Tailwind-ready)              |
-| Hosting      | *Easily deployable on Replit, Render, etc.* |
+| Hosting      | NOT YET DEPLOYED!                        |
 
 ---
 

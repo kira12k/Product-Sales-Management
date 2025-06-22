@@ -40,7 +40,7 @@ A lightweight, efficient, and easy-to-use **Sales Management System** built with
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/sales-management-system.git
+git clone https://github.com/kira12k/sales-management-system.git
 cd sales-management-system
 pip install -r requirements.txt
 python app.py
